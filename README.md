@@ -11,6 +11,11 @@ ____
 
 ____
 
+#### Amazon fake review checker
+- Uhm, there used to be some good options in this space? E.g. ReviewMeta. Not sure what happened to them, but I found them valuable.
+
+____
+
 
 #### Portfolio Optimizer
 - Use market optimization resaerch (e.g. kelly criterion) to craft portfolios that are mathematically most likely to beat the market by the highest percentage. 
